@@ -12,12 +12,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a href="[https://google.com](https://github.com/ellicrw/SIEM-lab)">Lab</a>|
+| AWS EC2 Intrusion Detection Lab (Suricata + Wireshark) | <a href="[https://google.com](https://github.com/ellicrw/AWS-EC2-Intrusion-Detection-Lab-Suricata-Wireshark-)">Lab</a>|
+| SOAR Lite IOC Enrichment Tool | <a href="[[https://google.com](https://github.com/ellicrw/AWS-EC2-Intrusion-Detection-Lab-Suricata-Wireshark-)](https://github.com/ellicrw/SOAR-Lite-IOC-Enrichment-Tool)">Lab</a>|
+|Threat Hunting in Real Datasets (Splunk – Sysmon Analysis)      | <a href="[[https://google.com](https://github.com/ellicrw/SIEM-lab)](https://github.com/ellicrw/Threat-Hunting-in-Real-Datasets-Splunk-Sysmon-Analysis-)">Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
